@@ -1,2 +1,3 @@
 # prisma-migration-demo
-Windowsマシンから直接Prisamaを操作
+
+Windows マシンから直接 Prisma を操作

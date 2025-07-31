@@ -1,0 +1,27 @@
+{
+  "name": "prisma-migration-demo",
+  "version": "1.0.0",
+  "description": "Windowsマシンから直接Prismaを操作",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasushi-mo/prisma-migration-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yasushi-mo/prisma-migration-demo/issues"
+  },
+  "homepage": "https://github.com/yasushi-mo/prisma-migration-demo#readme",
+  "devDependencies": {
+    "prisma": "^6.13.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.13.0"
+  }
+}
